@@ -4,7 +4,7 @@ A Python automation tool for collecting financial market data from API sources a
 
 ## Output Preview
 
-<img width="598" height="894" alt="Снимок экрана 2026-05-12 201910" src="https://github.com/user-attachments/assets/b00d3e9b-3264-4292-bab2-e97b8660f7ad" />
+<img width="598" alt="Снимок экрана 2026-05-12 201910" src="https://github.com/user-attachments/assets/b00d3e9b-3264-4292-bab2-e97b8660f7ad" />
 
 ## What this project does
 
@@ -37,7 +37,7 @@ Collected data includes:
 
 ## Project Preview
 
-<img width="1903" height="912" alt="Снимок экрана 2026-05-12 202001" src="https://github.com/user-attachments/assets/04a85828-f40c-49c1-9d15-6dade6038623" />
+<img width="1000" alt="Снимок экрана 2026-05-12 202001" src="https://github.com/user-attachments/assets/04a85828-f40c-49c1-9d15-6dade6038623" />
 
 ## Installation
 
